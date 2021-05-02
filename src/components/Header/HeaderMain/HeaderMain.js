@@ -9,7 +9,7 @@ const HeaderMain = () => {
                 <h6 className='text-secondary'>HELLO,MY NAME IS</h6>
                 <h1 className='color'>S M Ashfak Uddin</h1>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore sit doloribus impedit hic, ea dolorum! Lorem ipsum dolor sit amet cons</p>
-                <a class="btn lg-btn bg-color text-white" href=''>MY WORK</a>
+                <a class="btn lg-btn bg-color text-white" href='#my-work'>MY WORK</a>
             </div>
             <div class="col ms-5 ps-5">
                <img className='img-fluid' src={samplePicture} alt="" width='350'/>
